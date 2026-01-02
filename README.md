@@ -68,10 +68,6 @@ To run the scripts locally, follow these steps:
 
 3. Repeat for any other file you want to explore.
 
-## User Interfaces
-
-This repository contains CLI-based scripts only; there are no user interfaces to showcase.
-
 ## Developer
 
 This project was developed by:
